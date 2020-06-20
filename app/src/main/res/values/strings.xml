@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Perguruan Tinggi Riau</string>
+    <string name="class_name">Nama Kelas</string>
+    <string name="fas_name">Fasilitas</string>
+    <string name="pict_univ">Gambar</string>
+    <string name="icon_prof">Profil</string>
+</resources>

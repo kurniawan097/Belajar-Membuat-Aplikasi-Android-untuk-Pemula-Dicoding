@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449723349946",
+    "firebase_url": "https://sempatistar-10653.firebaseio.com",
+    "project_id": "sempatistar-10653",
+    "storage_bucket": "sempatistar-10653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449723349946:android:95908e51aef9c775",
+        "android_client_info": {
+          "package_name": "com.cuursoft.sempatistar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449723349946-abgto2l5f8s2hcpgt0njtapi0c3fgukp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpd_0ci3EGVrsTGc1Bcjvp97B_uvxaUME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449723349946-abgto2l5f8s2hcpgt0njtapi0c3fgukp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

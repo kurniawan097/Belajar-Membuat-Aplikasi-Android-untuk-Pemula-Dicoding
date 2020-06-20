@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_profil"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/myprofil"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_marginTop="130dp"
+        android:src="@drawable/profil"/>
+
+    <TextView
+        android:id="@+id/myname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myprofil"
+        android:textSize="20sp"
+        android:layout_marginTop="25dp"
+        android:text="Kurniawan"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/myemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myname"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp"
+        android:text="kurniawan.kurniawan@student.unri.ac.id"
+        android:textColor="@android:color/black"
+        android:gravity="center"/>
+</RelativeLayout>
